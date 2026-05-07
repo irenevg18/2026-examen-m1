@@ -6,9 +6,11 @@
 
 - 2: ![2: navbar 2](./img/Captura%20de%20pantalla%202026-05-07%20a%20las%201.36.37.png)
 
-- 3: ![3: cards](./img/Captura%20de%20pantalla%202026-05-07%20a%20las%201.20.24.png)
+- 3: ![navbar 3](./img/Captura%20de%20pantalla%202026-05-07%20a%20las%201.35.09.png)
 
-- 4: ![4: cards 2](./img/Captura%20de%20pantalla%202026-05-07%20a%20las%201.32.05.png)
+- 4: ![4: cards](./img/Captura%20de%20pantalla%202026-05-07%20a%20las%201.20.24.png)
+
+- 5: ![5: cards 2](./img/Captura%20de%20pantalla%202026-05-07%20a%20las%201.32.05.png)
 
 
 *Puedes utilizar cualquier imagen y texto. No hace falta que coincidan ni la tipografía, ni el logo.*
